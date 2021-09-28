@@ -9,7 +9,7 @@
 		.shadow{ 
 			width:300px;height:300px;
 			border-radius:100%;transform:rotateX(100deg);
-			margin-top:0; 
+			margin:0 auto; 
 			background:-webkit-linear-gradient(top left, gray, #331199, #6622aa);
 		}
 		#character{
