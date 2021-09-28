@@ -13,7 +13,7 @@
 			background:-webkit-linear-gradient(top left, gray, #331199, #6622aa);
 		}
 		#character{
-			animation:rotation 1s ease-in-out;transform:translate(50%,50%);
+			animation:rotation 1s ease-in-out;transform:translate(70%,50%);
 		}
 		@keyframes rotation{
 			0%{
